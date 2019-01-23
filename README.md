@@ -4,6 +4,7 @@
 [![DateTime on Travis CI][travis-image]][travis]
 [![DateTime on crates.io][cratesio-image]][cratesio]
 [![DateTime on docs.rs][docsrs-image]][docsrs]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsamueldple%2Fdate_time.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsamueldple%2Fdate_time?ref=badge_shield)
 
 [travis-image]: https://travis-ci.com/samueldple/date_time.svg?branch=master
 [travis]: https://travis-ci.com/samueldple/date_time
@@ -198,3 +199,7 @@ For a more precise wrapper of dates, try a crate such as [chrono](https://crates
 * This library is timezone-agnostic; it doesn't deal with any difference between time zones.
 * Only datetimes between `01 Jan 0000 00:00:00` and `31 Dec 9999 23:59:59` are supported.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsamueldple%2Fdate_time.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsamueldple%2Fdate_time?ref=badge_large)
